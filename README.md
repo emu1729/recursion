@@ -14,7 +14,7 @@ What is recursion? It's basically a function that calls itself!
 
 **Hint: What is the smallest number of times something can be repeated? This might be your base case**
 
-3. Do you know the Fibonacci sequence? 0, 1, 1, 2, 3, 5, ... etc. Let's write a Fibonacci sequence function using for loops.
+3. Do you know the Fibonacci sequence? 0, 1, 1, 2, 3, 5, ... etc. Let's write a Fibonacci sequence function using for loops. The zeroth Fib number is 0, The fourth Fib number is 3, etc.
 
 4. Alright great job! Now try using recursion. What are your base cases? Is this shorter or longer than your exercise 3?
 
@@ -31,6 +31,8 @@ Let's start this journey by considering a VERY important function: sorting.
 2. You might think this is kind of inefficient. And you'd be right! This kind of method might take a super LONG time if we have a very LONG list. How can we write a recursive method to do this?
 
 **Hint: What if we break it into halves and recurse on each half? How do we merge the two halves together? What is our base case?**
+
+3. Get ya checkoff!
 
 ### Part 3. Wanna learn more?
 
